@@ -5,7 +5,7 @@ Video call using socket Library in Java Language .
 Add the Libs in your respective IDE.
 
 ### Step 2
- First run the Server Main File.
+ First run the Server Main File. Wait unitil the below Window show up.
  ![Server!](https://github.com/RizwanSabir/VideoCall-Javafx-Socket/blob/master/Pictures/Server1.PNG)
 
 
