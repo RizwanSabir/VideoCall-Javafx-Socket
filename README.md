@@ -6,4 +6,4 @@ Add the Libs in your respective IDE.
 
 ### Step 2
  First run the Server .
- ![Server!](Pictures/Server1.png)
+ ![Server!](https://github.com/RizwanSabir/VideoCall-Javafx-Socket/blob/master/Pictures/Server1.PNG)
